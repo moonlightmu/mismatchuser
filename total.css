@@ -1,0 +1,64 @@
+@CHARSET "UTF-8";
+.topscoreheader {
+	text-align: center;
+	font-size:200%;
+	background-color:#36407f;
+	color:#ffffff;
+}
+.score {
+	font-size:150%;
+	color:#36407f;
+}
+.scoreinfo {
+	vertical-align:top;
+	padding-right:15px;
+}
+#leftinfo{
+	width:100px;
+	color:red;
+	padding-right:25px;
+	padding-top:8px;
+	line-height:30px;
+}
+form{
+	display:table;
+	padding:10px;
+	background-color:#e1ceb8;
+}
+div#tableRow {
+	display:table-row;
+}
+section#new{
+		border:1px solid blue;
+	    display:table-cell;
+}
+div#tableContainer {
+	display: table;
+}
+div#tableRow p#blog{
+	padding:10px;
+	display:table-cell;
+	text-align:right;
+	font-size:120%;
+}
+fieldset{
+	padding:40px;
+}
+table{
+		background-color:#e1ceb8;
+		padding:20px 30px;
+		
+}
+td{
+	padding:10px;
+	font-size:120%;
+}
+td:first-child{
+	text-align:right;
+}
+a{
+	display:inline-block; 
+}
+.left{
+	display:inline-block; 
+}
